@@ -5,7 +5,7 @@
         body {
             font-family: Arial, sans-serif;
             background-color: #3D1E2D; 
-            color: #F5E6E8; 
+            color:rgb(217, 208, 209); 
             display: flex;
             justify-content: center;
             align-items: center;
